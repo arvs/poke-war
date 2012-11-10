@@ -1,0 +1,45 @@
+Request URL:https://www.facebook.com/ajax/pokes/poke_inline.php
+Request Method:POST
+Status Code:200 OK
+Request Headersview source
+Accept:*/*
+Accept-Charset:ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:en-US,en;q=0.8
+Connection:keep-alive
+Content-Length:120
+Content-Type:application/x-www-form-urlencoded
+Cookie:datr=q-MyTgIHhqExzkOBuMNTCTFd; lu=Thakj_SduqcoQFmqituzligA; locale=en_US; c_user=1062930309; csm=2; fr=03VPenIipEqhJT2zR.AWVYgQC2x17WA3qXqpoCKSPYRTM; s=Aa49rG8tDXtGcVth.BQPEVN; xs=1%3A1KNvju8pcaj-5g%3A2%3A1346127181; presence=EM346139536EuserFA21062930309A2EstateFDsb2F1346139370151Et2F_5bDiFA2user_3a537883346A2ErF1CAcDiFA2user_3a1062930392A2ErF1C_5dElm2FA2user_3a1062930392A2Euct2F1346139288828EtrFA2loadA2EtwF1138931479EatF1346139534944G346139536920CEchFDp_5f1062930309F124CC; sub=63; p=3; _e_0xU9_0=%5B%220xU9%22%2C1346139543539%2C%22act%22%2C1346139543537%2C4%2C%22https%3A%2F%2Fwww.facebook.com%2Fpokes%23%22%2C%22click%22%2C%22click%22%2C%22bluebar%22%2C%22r%22%2C%22%2Fpokes%22%2C%7B%22ft%22%3A%7B%7D%2C%22gt%22%3A%7B%22ua_id%22%3A%22jewel%3Anotifications%22%7D%7D%2C247%2C28%2C0%2C981%2C16%5D; _e_0xU9_1=%5B%220xU9%22%2C1346139543544%2C%22act%22%2C1346139543544%2C6%2C%22-%22%2C%22jewel_click%22%2C%22-%22%2C%22-%22%2C%22r%22%2C%22%2Fpokes%22%2C%7B%22ft%22%3A%7B%7D%2C%22gt%22%3A%7B%22count%22%3A0%2C%22initial%22%3A%7B%22jewel%22%3A%22notifications%22%2C%22count%22%3A0%7D%2C%22jewel%22%3A%22notifications%22%7D%7D%2C0%2C0%2C0%2C0%2C16%5D; _e_0xU9_2=%5B%220xU9%22%2C1346139544459%2C%22act%22%2C1346139544457%2C5%2C%22https%3A%2F%2Fwww.facebook.com%2Fpokes%23%22%2C%22click%22%2C%22click%22%2C%22bluebar%22%2C%22r%22%2C%22%2Fpokes%22%2C%7B%22ft%22%3A%7B%7D%2C%22gt%22%3A%7B%22ua_id%22%3A%22jewel%3Anotifications%22%7D%7D%2C247%2C28%2C0%2C981%2C16%5D; act=1346139551535%2F6%3A2; _e_0xU9_3=%5B%220xU9%22%2C1346139551537%2C%22act%22%2C1346139551535%2C6%2C%22%2Fajax%2Fpokes%2Fpoke_inline.php%3Fuid%3D537883346%26pokeback%3D1%22%2C%22click%22%2C%22click%22%2C%22pokes%22%2C%22r%22%2C%22%2Fpokes%22%2C%7B%22ft%22%3A%7B%7D%2C%22gt%22%3A%7B%7D%7D%2C408%2C145%2C0%2C981%2C16%5D; x-src=%2Fajax%2Fpokes%2Fpoke_inline.php%7Cpagelet_pokes
+Host:www.facebook.com
+Origin:https://www.facebook.com
+Referer:https://www.facebook.com/pokes
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1
+X-SVN-Rev:617298
+Form Dataview URL encoded
+uid:537883346
+pokeback:1
+nctr[_mod]:pagelet_pokes
+__user:1062930309
+__a:1
+fb_dtsg:AQDZSsoQ
+phstamp:165816890831151118190
+Response Headersview source
+Cache-Control:private, no-cache, no-store, must-revalidate
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:application/x-javascript; charset=utf-8
+Date:Tue, 28 Aug 2012 07:39:11 GMT
+Expires:Sat, 01 Jan 2000 00:00:00 GMT
+P3P:CP="Facebook does not have a P3P policy. Learn why here: http://fb.me/p3p"
+Pragma:no-cache
+Set-Cookie:x-src=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com; httponly
+Set-Cookie:_e_0xU9_3=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com; httponly
+Set-Cookie:_e_0xU9_0=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com; httponly
+Set-Cookie:_e_0xU9_1=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com; httponly
+Set-Cookie:_e_0xU9_2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.facebook.com; httponly
+Strict-Transport-Security:max-age=60
+Transfer-Encoding:chunked
+X-Content-Type-Options:nosniff
+X-FB-Debug:ewJDOFIsRFyZA56K8dHEjdN2nvfLbCTKfpB3fkVaCYs=
+X-Frame-Options:DENY
+X-XSS-Protection:1; mode=block
